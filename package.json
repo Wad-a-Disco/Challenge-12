@@ -1,0 +1,16 @@
+{
+  "name": "challenge-12",
+  "version": "1.0.0",
+  "description": "This is the Module 12 Challenge for the UCI Coding Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.4.2"
+  }
+}
